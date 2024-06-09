@@ -3,7 +3,7 @@ seeds = false
 skip-lint = false
 
 [programs.devnet]
-nft_lend_borrow = "<ADD YOUR ADDRESS HERE>"
+nft_lend_borrow = "6jDGSHbMBf4HXAmpcabQDDWgtfBDU45dD6KNZa3Y9a6T"
 
 [registry]
 url = "https://api.apr.dev"
